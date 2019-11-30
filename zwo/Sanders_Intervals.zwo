@@ -1,0 +1,57 @@
+<workout_file>
+    <author>Lionel Sanders</author>
+    <name>Lionel Sanders Intervals</name>
+    <description>A 70 minute session with descending sets of intervals above your ftp. This is a bread and butter set for me. If you are doing it right then about three quarters of the way through the 3 minute intervals you should start feeling the finger tips pulsating, and getting a little uncomfortable in your skin. The last couple are usually very painful, but in reality that is where the workout really starts. If it doesn't hurt, then your body was likely already equipped to perform the job you are asking of it, and thus it is at that point that you are finally crossing over into an area where you don't have adequate machinery to perform the job. The big efforts at the end are mainly to ingrain in the body that we do not slow down at the end of the workout, but rather, pickup the effort.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="INTERVALS"/>
+    </tags>
+    <workout>
+        <Warmup Duration="480" PowerLow="0.50449997" PowerHigh="0.80000001" pace="0">
+            <textevent timeoffset="15" message="Hello everyone"/>
+            <textevent timeoffset="30" message="Welcome to the TRI247 Winter Series"/>
+            <textevent timeoffset="45" message="This session is set by Lionel Sanders"/>
+            <textevent timeoffset="90" message="Looking forward to the next 70 minutes, starts with a gentle warm up"/>
+            <textevent timeoffset="400" message="Should be starting to feel like the legs are ready for action"/>
+            <textevent timeoffset="450" message="A 2 minute rest coming up and then we hit the first interval"/>
+        </Warmup>
+        <SteadyState Duration="120" Power="0.50449997" pace="0">
+            <textevent timeoffset="45.000095" message="Have a drink and get ready for 6 x 3 minute challenging efforts just above threshold"/>
+        </SteadyState>
+        <IntervalsT Repeat="6" OnDuration="180" OffDuration="60" OnPower="1.05" OffPower="0.50449997" pace="0">
+            <textevent timeoffset="39.999962" message="These are going to feel really tough"/>
+            <textevent timeoffset="80" message="Focus on keeping a solid effort in each interval"/>
+            <textevent timeoffset="630" message="Three more to go after this one"/>
+            <textevent timeoffset="1320" message="Very nearly finished this block"/>
+        </IntervalsT>
+        <SteadyState Duration="300" Power="0.50449997" pace="0">
+            <textevent timeoffset="20.000214" message="Quick rest, grab a drink and let your heart rate settle"/>
+            <textevent timeoffset="180" message="Good news, the intervals are getting shorter"/>
+            <textevent timeoffset="200" message="Bad news, the intervals are getting harder"/>
+        </SteadyState>
+        <IntervalsT Repeat="5" OnDuration="60" OffDuration="60" OnPower="1.15" OffPower="0.50449997" pace="0">
+            <textevent timeoffset="20.000057" message="These should be hurting"/>
+            <textevent timeoffset="140.00009" message="Second of five intervals"/>
+            <textevent timeoffset="260.00012" message="Just imagine you&apos;ve got Cameron Wurf 20 metres ahead"/>
+            <textevent timeoffset="379.99985" message="Doing great"/>
+            <textevent timeoffset="499.99991" message="Last one, if it isn&apos;t hurting, it isn&apos;t working"/>
+        </IntervalsT>
+        <SteadyState Duration="180" Power="0.50449997" pace="0">
+            <textevent timeoffset="10" message="2 minutes rest and then we go anaerobic"/>
+            <textevent timeoffset="150" message="6 x 30 sec hard efforts coming up, 1 minute rest"/>
+        </SteadyState>
+        <IntervalsT Repeat="6" OnDuration="30" OffDuration="60" OnPower="1.3045" OffPower="0.50449997" pace="0">
+            <textevent timeoffset="220.00003" message="Three down, three to go"/>
+            <textevent timeoffset="309.99997" message="You&apos;re doing great, just two more left"/>
+            <textevent timeoffset="399.99991" message="One more interval, leave nothing out there"/>
+            <textevent timeoffset="455.00009" message="Give it everything!"/>
+            <textevent timeoffset="499.99994" message="You did it!"/>
+        </IntervalsT>
+        <Cooldown Duration="540" PowerLow="0.70449996" PowerHigh="0.5" pace="0">
+            <textevent timeoffset="360" message="Thanks for joining Lionel&apos;s workout"/>
+            <textevent timeoffset="390" message="We do this every Wednesday 7pm UK time"/>
+            <textevent timeoffset="420" message="A different workout each week set by a special guest"/>
+            <textevent timeoffset="450" message="TRI247 Winter Series"/>
+        </Cooldown>
+    </workout>
+</workout_file>
