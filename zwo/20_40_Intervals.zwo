@@ -1,0 +1,20 @@
+<workout_file>
+    <author>M.Simms</author>
+    <name>20/40 Intervals</name>
+    <description>This is a 20/40 interval workout: 20 seconds on, 40 seconds off, 4 sets of 4 with a warm up and cool down period on either end.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="INTERVALS"/>
+    </tags>
+    <workout>
+        <Warmup Duration="600" PowerLow="0.25224999" PowerHigh="0.75224996" pace="0"/>
+        <IntervalsT Repeat="4" OnDuration="20" OffDuration="40" OnPower="1.5044999" OffPower="0.50449997" pace="0"/>
+        <FreeRide Duration="120.00001" FlatRoad="1"/>
+        <IntervalsT Repeat="4" OnDuration="20" OffDuration="40" OnPower="1.5044999" OffPower="0.50449997" pace="0"/>
+        <FreeRide Duration="120.00001" FlatRoad="1"/>
+        <IntervalsT Repeat="4" OnDuration="20" OffDuration="40" OnPower="1.5044999" OffPower="0.50449997" pace="0"/>
+        <FreeRide Duration="120.00001" FlatRoad="1"/>
+        <IntervalsT Repeat="4" OnDuration="20" OffDuration="40" OnPower="1.5044999" OffPower="0.50449997" pace="0"/>
+        <Cooldown Duration="600" PowerLow="0.75449997" PowerHigh="0.25449997" pace="0"/>
+    </workout>
+</workout_file>
