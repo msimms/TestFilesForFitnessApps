@@ -10,7 +10,7 @@
         <Warmup Duration="480" PowerLow="0.50449997" PowerHigh="0.80000001" pace="0">
             <textevent timeoffset="15" message="Hello everyone"/>
             <textevent timeoffset="30" message="Welcome to the TRI247 Winter Series"/>
-            <textevent timeoffset="45" message="This session is set by Lionel Sanders"/>
+            <textevent timeoffset="45" message="This session is from Lionel Sanders"/>
             <textevent timeoffset="90" message="Looking forward to the next 70 minutes, starts with a gentle warm up"/>
             <textevent timeoffset="400" message="Should be starting to feel like the legs are ready for action"/>
             <textevent timeoffset="450" message="A 2 minute rest coming up and then we hit the first interval"/>
@@ -37,7 +37,7 @@
             <textevent timeoffset="499.99991" message="Last one, if it isn&apos;t hurting, it isn&apos;t working"/>
         </IntervalsT>
         <SteadyState Duration="180" Power="0.50449997" pace="0">
-            <textevent timeoffset="10" message="2 minutes rest and then we go anaerobic"/>
+            <textevent timeoffset="10" message="3 minutes rest and then we go anaerobic"/>
             <textevent timeoffset="150" message="6 x 30 sec hard efforts coming up, 1 minute rest"/>
         </SteadyState>
         <IntervalsT Repeat="6" OnDuration="30" OffDuration="60" OnPower="1.3045" OffPower="0.50449997" pace="0">
@@ -49,9 +49,6 @@
         </IntervalsT>
         <Cooldown Duration="540" PowerLow="0.70449996" PowerHigh="0.5" pace="0">
             <textevent timeoffset="360" message="Thanks for joining Lionel&apos;s workout"/>
-            <textevent timeoffset="390" message="We do this every Wednesday 7pm UK time"/>
-            <textevent timeoffset="420" message="A different workout each week set by a special guest"/>
-            <textevent timeoffset="450" message="TRI247 Winter Series"/>
         </Cooldown>
     </workout>
 </workout_file>
