@@ -1,3 +1,7 @@
 file,activity type,device,download source,comment
-20181108_intra_run_club.fit,run,garmin fenix 3 hr,garmin connect,contains hr and run speed/cadence from foot pod along with Stryd running dynamics
-20191117_triathlon_bike.fit,bike,wahoo elemnt,wahoo app,contains gps and power/cadence data
+20130720_run_garmin_forerunner_10.fit,run,garmin forerunner 10,garmin connect,
+20140530_hike_garmin_fr910xt.fit,hike,garmin forerunner 910xt,garmin connect,
+20140622_swim_garmin_fr910xt.fit,swim,garmin forerunner 910xt,garmin connect,
+20181108_run_garmin_fenix_3_hr.fit,run,garmin fenix 3 hr,garmin connect,contains hr and run speed/cadence from foot pod along with Stryd running dynamics
+20191117_bike_wahoo_elemnt.fit,bike,wahoo elemnt,wahoo app,contains gps and power/cadence data
+20200813_run_garmin_fenix_6.fit,run,garmin fenix 6 pro,garmin connect,

@@ -1,8 +1,8 @@
 file,activity type,device,download source,comment
-20111211_trail_ride.tcx,mountain bike ride,garmin edge 705,garmin connect
-20120611_run.tcx,run,garmin forerunner 405cx,garmin connect
-20180331_crescent_city_classic.tcx,run,garmin fenix 3 hr,garmin connect,
+20111211_trail_ride_garmin_edge_705.tcx,mountain bike ride,garmin edge 705,garmin connect
+20120611_run_garmin_fr405cx.tcx,run,garmin forerunner 405cx,garmin connect
+20130309_run_garmin_fr405cx.tcx,run,garmin forerunner 405cx with chest hr strap,,,
+20180331_run_garmin_fenix_6.tcx,run,garmin fenix 3 hr,garmin connect,
 20180810_zwift_innsbruckring_x2.tcx,stationary bike,zwift,garmin connect,
-20181108_intra_run_club.tcx,run,garmin fenix 3 hr,garmin connect,contains hr and run speed/cadence from foot pod
+20181108_run_garmin_fenix_3_hr.tcx,run,garmin fenix 3 hr,garmin connect,contains hr and run speed/cadence from foot pod
 20200103_intervals.tcx,run,accompanying watch app,,4x1/4 mile intervals
-run_03.tcx,run,garmin forerunner 405cx with chest hr strap,,,
