@@ -4,4 +4,8 @@ file,activity type,device,download source,comment
 20140622_swim_garmin_fr910xt.fit,swim,garmin forerunner 910xt,garmin connect,
 20181108_run_garmin_fenix_3_hr.fit,run,garmin fenix 3 hr,garmin connect,contains hr and run speed/cadence from foot pod along with Stryd running dynamics
 20191117_bike_wahoo_elemnt.fit,bike,wahoo elemnt,wahoo app,contains gps and power/cadence data
+20191117_tri_garmin_fenix_3_hr.fit,multisport,garmin fenix 3 hr,garmin connect,triathlon
+20200529_short_ocean_swim_fenix_3.fit,swim,garmin fenix 3 hr,garmin connect,brief open water swim
 20200813_run_garmin_fenix_6.fit,run,garmin fenix 6 pro,garmin connect,
+20210218_zwift_bike_race.fit,virtual bike,zwift,zwift web,virtual bike ride on zwift
+Half_Mile_Repeats_workout.fit,run workout,,,run workout designed on GC and copied off the watch
